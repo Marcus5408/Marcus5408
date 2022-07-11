@@ -57,7 +57,7 @@
             <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/master/assets/Photoshop.svg" alt="photoshop" width="40" height="40"/>
         </a>
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/a6dcffb8e7f8ffe1cccaed1c02448c34a882cba3/assets/XD.svg" alt="xd" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/master/assets/XD.svg" alt="xd" width="40" height="40"/>
         </a>
     </p>
 </h3>
