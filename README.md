@@ -19,10 +19,10 @@
 <h3 align="center">Languages and Tools:</h3>
     <p align="center">
         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/71b3e8380ecb5918633fca5b2a72c38ea11d6892/assets/Blender.svg" alt="blender" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/master/assets/Blender.svg" alt="blender" width="40" height="40"/>
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/master/assets/CSS.svg" alt="css3" width="40" height="40"/>
         </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -34,7 +34,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
         </a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/b24af3f687ccf0e32daa4fd46dd9913cde11d9cb/assets/Illustrator.svg" alt="illustrator" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/master/assets/Illustrator.svg" alt="illustrator" width="40" height="40"/>
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -43,7 +43,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
         </a>
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/b24af3f687ccf0e32daa4fd46dd9913cde11d9cb/assets/Photoshop.svg" alt="photoshop" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/master/assets/Photoshop.svg" alt="photoshop" width="40" height="40"/>
         </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
