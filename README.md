@@ -16,7 +16,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carmiscious" height="30" width="40" />
     </a>
 </p>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools I Use:</h3>
     <p align="center">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/marcus5408/marcus5408/master/assets/HTML.svg" alt="html5" width="40" height="40"/> 
