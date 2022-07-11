@@ -55,7 +55,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         </a>
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/b24af3f687ccf0e32daa4fd46dd9913cde11d9cb/assets/XD.svg" alt="xd" width="40" height="40"/>
         </a>
     </p>
 </h3>
