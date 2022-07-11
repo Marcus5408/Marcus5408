@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=marcus5408&label=Profile%20views&color=0e75b6&style=flat" alt="marcus5408">
 </p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect With Me:</h3>
 <p align="center">
     <a href="https://twitter.com/carmiscious" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carmiscious" height="30" width="40" />
