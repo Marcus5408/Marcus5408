@@ -57,4 +57,7 @@
             <img src="https://raw.githubusercontent.com/Marcus5408/Marcus5408/master/assets/XD.svg" alt="xd" width="40" height="40"/>
         </a>
     </p>
+    <p align="center">
+        <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=321&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=My+Languages&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Stats" />
+    </p>
 </h3>
